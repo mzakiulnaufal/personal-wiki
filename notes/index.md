@@ -38,11 +38,20 @@ A few representative pages — pick one that catches your eye:
 
 The complete catalog of pages, organized by topic. This is the long version — if you'd rather wander, just click around the graph.
 
+### ACCA
+
+|| Page | Type | Status | Summary |
+|| --- | --- | --- | --- |
+|| [[wiki/ACCA/Section 1/Overview\\|Section 1: Financial Reporting & Business Entities]] | synthesis | mature | Master index for ACCA FA Section 1: AIM questions, SKIN review, and key relationships across business entities, financial reporting, and stakeholders. |
+|| [[wiki/ACCA/Section 1/Business Entities\\|Business Entities]] | concept | mature | Sole trader, partnership, and limited company: legal differences, implications for reporting, and why LLCs must follow IFRS. |
+|| [[wiki/ACCA/Section 1/Financial Reporting\\|Financial Reporting]] | concept | mature | Definition (recording → analysing → summarising), the four main statements, their relationships, OCI, and non-financial reports. |
+|| [[wiki/ACCA/Section 1/Stakeholders\\|Stakeholders]] | concept | mature | Internal vs external users, their information needs, and key distinctions (owners vs investors, management vs owners, lenders vs suppliers). |
+
 ### LLM wiki architecture
 
-| Page | Type | Status | Summary |
-| --- | --- | --- | --- |
-| [[wiki/Concepts/LLM Knowledge Systems\|LLM Knowledge Systems]] | concept | seed | Pattern for using LLMs to maintain a persistent markdown wiki instead of only querying raw sources. |
+|| Page | Type | Status | Summary |
+|| --- | --- | --- | --- |
+|| [[wiki/Concepts/LLM Knowledge Systems\\|LLM Knowledge Systems]] | concept | seed | Pattern for using LLMs to maintain a persistent markdown wiki instead of only querying raw sources. |
 | [[wiki/Workflows/Raw to Wiki Compilation\|Raw to Wiki Compilation]] | workflow | seed | Process for converting source material into durable, linked wiki pages. |
 | [[wiki/Workflows/Question Answering Against a Wiki\|Question Answering Against a Wiki]] | workflow | seed | Workflow for answering questions by reading the compiled wiki first, then sources as needed. |
 | [[wiki/Workflows/Wiki Health Checks\|Wiki Health Checks]] | workflow | seed | Periodic audits for contradictions, stale claims, orphan pages, and missing concepts. |
