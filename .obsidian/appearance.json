@@ -3,6 +3,6 @@
   "enabledCssSnippets": [
     "kb"
   ],
-  "theme": "moonstone",
+  "theme": "system",
   "showRibbon": true
 }
