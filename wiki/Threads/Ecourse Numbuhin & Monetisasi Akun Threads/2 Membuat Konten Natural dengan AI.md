@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, ai-content, natural-writing, rino]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/2  Membuat konten natural pakai AI _ Rino Damar Jati.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 2 Membuat Konten Natural dengan AI

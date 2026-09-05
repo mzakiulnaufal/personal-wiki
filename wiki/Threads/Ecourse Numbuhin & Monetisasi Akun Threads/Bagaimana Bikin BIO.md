@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, bio, pinpost, personal-branding, ahwy]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/Bagaimana bikin BIO agar orang follow_ _ Ahwy Livestream 4.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # Bagaimana Bikin BIO

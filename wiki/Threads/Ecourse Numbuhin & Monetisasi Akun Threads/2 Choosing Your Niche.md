@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, niche, authenticity, dewi]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/2  How to choose your niche _ Kusumadewi Candrakirana.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 2 Choosing Your Niche

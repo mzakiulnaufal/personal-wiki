@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, content-strategy, introduction, ahwy]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/1 Perkenalan _ Muhammad Ahwy Karuniyado.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 1 Perkenalan

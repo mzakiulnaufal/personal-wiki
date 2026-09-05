@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, growth-analytics, ai, ahwy]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/Bagaimana menganalisis pertumbuhan akun Threads_ _ Ahwy Livestream 3.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # Analisis Pertumbuhan Akun

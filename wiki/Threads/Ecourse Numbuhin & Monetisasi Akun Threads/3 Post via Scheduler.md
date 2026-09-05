@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, scheduling, repli, buffer, rino]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/3  Post threads via scheduler _ Rino Damar Jati.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 3 Post via Scheduler

@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, deep-research, pain-points, ahwy, metaprompting]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/Bagaimana cara _Deep Research_ topik konten dengan AI_ _ Ahwy Livestream 1.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # Deep Research Topik Konten

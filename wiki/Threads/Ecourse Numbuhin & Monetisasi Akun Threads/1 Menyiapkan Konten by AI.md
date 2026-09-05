@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, ai-content, master-data, rino]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/1  menyiapkan konten by AI _ RIno Damar Jati.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 1 Menyiapkan Konten by AI

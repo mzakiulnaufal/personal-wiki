@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, monetization, shopee-affiliate, ahwy]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/6 Monetisasi Threads dengan Shopee Affiliate _ Muhammad Ahwy Karuniyado.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 6 Monetisasi dengan Shopee Affiliate

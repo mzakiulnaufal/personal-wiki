@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, comment-analysis, ai, ahwy, deepseek]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/Bagaimana cara analisis komen di sosmed dengan AI_ _ Ahwy Livestream 2.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # Analisis Komen dengan AI

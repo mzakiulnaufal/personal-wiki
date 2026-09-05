@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, ai-generation, instruction-system, ahwy]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/4 Cara generate konten viral dengan AI untuk Threads _ Muhammad Ahwy Karuniyado.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 4 Generate Viral Content with AI

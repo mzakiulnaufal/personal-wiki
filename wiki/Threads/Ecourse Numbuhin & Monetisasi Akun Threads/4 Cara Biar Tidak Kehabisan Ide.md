@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, content-ideas, inspiration, rino]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/4  Cara biar tidak kehabisan ide nulis _ RIno Damar Jati.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 4 Cara Biar Tidak Kehabisan Ide

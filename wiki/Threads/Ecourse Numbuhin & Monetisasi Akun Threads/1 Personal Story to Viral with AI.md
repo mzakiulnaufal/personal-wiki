@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, personal-story, ai-content, dewi]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/1  How to turn personal story into viral content on threads using AI _ Kusumadewi Candrakirana.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 1 Personal Story to Viral with AI

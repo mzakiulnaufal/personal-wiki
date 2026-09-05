@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, recovery, case-study, ahwy, ban]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/Bikin akun Threads baru_ berkarirdgnahwy dan dalam 12 hari sudah 30K followers! _ Ahwy Livestream 5.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # Bikin Akun Baru 30K Followers in 12 Days

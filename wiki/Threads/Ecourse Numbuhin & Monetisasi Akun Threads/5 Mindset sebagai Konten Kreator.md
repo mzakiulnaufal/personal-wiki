@@ -5,7 +5,7 @@ updated: 2026-09-05
 type: concept
 tags: [threads, mindset, consistency, ahwy, overthinking]
 confidence: high
-sources: [raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/5 Mindset sebagai konten kreator _ Muhammad Ahwy Karuniyado.md]
+sources: [raw/sources/Ecourse Numbuhin & Monetisasi Akun Threads/...]
 ---
 
 # 5 Mindset sebagai Konten Kreator
