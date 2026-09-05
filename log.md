@@ -44,6 +44,6 @@
 ## [2026-09-05] ingest | Ecourse Numbuhin & Monetisasi Akun Threads
 - Extracted 18 video transcripts from ecourse zip
 - Copied raw transcripts to `raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/`
-- Created wiki pages under `wiki/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/` for each session
+- Created wiki pages under `wiki/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/` for each session (moved to `wiki/` folder)
 - Created index page `wiki/Threads/Index.md` summarizing the ecourse
 - Updated root index.md with Threads section

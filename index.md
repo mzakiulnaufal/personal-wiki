@@ -6,7 +6,7 @@
 - [[Programming/]] - Programming knowledge
 - [[General/]] - General learning
 - [[Techniques/]] - Learning techniques (from Logos52)
-- [[Threads/]] - Ecourse Numbuhin & Monetisasi Akun Threads
+- [[wiki/Threads/]] - Ecourse Numbuhin & Monetisasi Akun Threads
 
 ## Core
 - [[entities/]] - Entity pages
