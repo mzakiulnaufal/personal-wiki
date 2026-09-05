@@ -13,27 +13,13 @@ Thumbs.db
 .obsidian/trash/
 .trash/
 
-# Raw source material stays local; keep only the public architecture skeleton.
-raw/**
+# Raw source material — only exclude sensitive private subdirectories. 
+# Everything else (raw/sources/, raw/papers/, etc.) is tracked.
+# raw/ itself is NOT ignored, so subfolders not listed here are tracked.
 !raw/
-!raw/Source Index.md
-!raw/assets/
-!raw/assets/.gitkeep
-!raw/datasets/
-!raw/datasets/.gitkeep
-!raw/images/
-!raw/images/.gitkeep
-!raw/inbox/
-!raw/inbox/.gitkeep
-!raw/papers/
-!raw/papers/.gitkeep
-!raw/processed/
-!raw/processed/.gitkeep
-!raw/repos/
-!raw/repos/.gitkeep
-!raw/sources/
-!raw/sources/.gitkeep
-!raw/sources/claude-code-course/
+raw/ACCA/**
+raw/Clippings/**
+raw/private/**
 
 # Legacy clipper inbox. Use raw/inbox/ instead.
 Clippings/
