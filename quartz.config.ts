@@ -31,7 +31,9 @@ const config: QuartzConfig = {
       ".trash/**",
 
       // Vault folders intentionally kept out of the public site
-      "raw/**",
+      "raw/ACCA/**",
+      "raw/sources/**",
+      "raw/Clippings/**",
       "Clippings/**",
       "outputs/**",
       "templates/**",

@@ -40,3 +40,10 @@
 - 0 broken content links, 0 orphan pages, 11/11 new pages indexed
 - Confirmed transcripts gitignored (paywalled course content stays local)
 - Report: `outputs/audits/2026-09-05 - Wiki Health Check.md`
+
+## [2026-09-05] ingest | Ecourse Numbuhin & Monetisasi Akun Threads
+- Extracted 18 video transcripts from ecourse zip
+- Copied raw transcripts to `raw/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/`
+- Created wiki pages under `wiki/Threads/Ecourse Numbuhin & Monetisasi Akun Threads/` for each session
+- Created index page `wiki/Threads/Index.md` summarizing the ecourse
+- Updated root index.md with Threads section
