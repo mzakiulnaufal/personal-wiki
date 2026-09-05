@@ -24,7 +24,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     // Set to your published URL once GitHub Pages is configured.
     // For a user site this is "<username>.github.io".
-    baseUrl: "logos52.github.io",
+    baseUrl: "mzakiulnaufal.github.io",
     ignorePatterns: [
       // Obsidian internals
       ".obsidian/**",

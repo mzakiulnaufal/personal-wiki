@@ -8,7 +8,7 @@ tags:
 
 Public LLM knowledge base for notes, sources, compiled wiki pages, and research outputs.
 
-This vault is designed to be opened directly in Obsidian and published as the personal site at <https://logos52.github.io>.
+This vault is designed to be opened directly in Obsidian and published as the personal site at <https://mzakiulnaufal.github.io>.
 
 ## Purpose
 
@@ -122,7 +122,7 @@ LLM agents should read [[notes/index]] and [[AGENTS]] first.
 
 ## Published Site
 
-The site is published at <https://logos52.github.io>, built with [Quartz v4](https://quartz.jzhao.xyz/). To publish at the root GitHub Pages URL, the deploy source needs to be the `Logos52/logos52.github.io` repository, not a project page under `Logos52/llm-knowledge-base`.
+The site is published at <https://mzakiulnaufal.github.io>, built with [Quartz v4](https://quartz.jzhao.xyz/). To publish at the root GitHub Pages URL, the deploy source needs to be the `mzakiulnaufal/mzakiulnaufal.github.io` repository, not a project page under `mzakiulnaufal/personal-wiki`.
 
 What gets published: `index.md`, `blog/`, `notes/`, `wiki/`, `00 Command Center/`, `log.md`, `README.md`, `AGENTS.md`. Everything else (`raw/`, `Clippings/`, `outputs/`, `templates/`, `tools/`) is committed to the repo but excluded from the site via `quartz.config.ts → ignorePatterns`.
 

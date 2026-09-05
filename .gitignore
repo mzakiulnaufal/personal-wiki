@@ -33,6 +33,7 @@ raw/**
 !raw/repos/.gitkeep
 !raw/sources/
 !raw/sources/.gitkeep
+!raw/sources/claude-code-course/
 
 # Legacy clipper inbox. Use raw/inbox/ instead.
 Clippings/

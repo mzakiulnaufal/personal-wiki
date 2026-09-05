@@ -183,6 +183,6 @@ Course by *AI Automation by Jack* — building websites, apps, and an AI busines
 
 ## How this is built
 
-This wiki lives in an [Obsidian](https://obsidian.md) vault and is published as a static site by [Quartz v4](https://quartz.jzhao.xyz/). The full source is on GitHub at [logos52/llm-knowledge-base](https://github.com/Logos52/llm-knowledge-base). For the philosophy behind the project, see [[README]]; for how the LLM agent maintains the vault, see [[AGENTS]]; for chronological history, see [[log]].
+This wiki lives in an [Obsidian](https://obsidian.md) vault and is published as a static site by [Quartz v4](https://quartz.jzhao.xyz/). The full source is on GitHub at [mzakiulnaufal/personal-wiki](https://github.com/mzakiulnaufal/personal-wiki). For the philosophy behind the project, see [[README]]; for how the LLM agent maintains the vault, see [[AGENTS]]; for chronological history, see [[log]].
 
 Code is MIT-licensed; written content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

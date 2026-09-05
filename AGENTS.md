@@ -8,7 +8,7 @@ tags:
 
 This repository is an LLM-maintained Obsidian wiki. Obsidian is the IDE, the LLM is the wiki maintainer, and the markdown wiki is the persistent compiled artifact.
 
-Assume this repository may be public on GitHub under `logos52`.
+Assume this repository may be public on GitHub under `mzakiulnaufal`.
 
 ## Core Idea
 
@@ -244,7 +244,7 @@ Do not include private journal material, relationship notes, credentials, privat
 
 ## Static Site (Quartz v4)
 
-The site is published at <https://logos52.github.io>. The site is built by Quartz v4 from the repo root. Pushes to `main` trigger an automatic rebuild via `.github/workflows/deploy.yml`.
+The site is published at <https://mzakiulnaufal.github.io>. The site is built by Quartz v4 from the repo root. Pushes to `main` trigger an automatic rebuild via `.github/workflows/deploy.yml`.
 
 What gets published vs. what stays local:
 
