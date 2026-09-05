@@ -25,3 +25,7 @@
 - Enhanced SKIN Review Summary with additional retrieval prompts
 - Updated Stakeholders page title for consistency
 - Added related concepts sections to Business Entities, Financial Reporting, and Stakeholders
+
+## [2026-09-05] setup | Added IFRS standards
+- Created IFRS 15 (Revenue), IFRS 16 (Leases), IFRS S1, IFRS S2
+- Updated index.md with IFRS standards section
