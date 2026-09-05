@@ -17,7 +17,7 @@ Thumbs.db
 # Everything else (raw/sources/, raw/papers/, etc.) is tracked.
 # raw/ itself is NOT ignored, so subfolders not listed here are tracked.
 !raw/
-raw/ACCA/**
+
 raw/Clippings/**
 raw/private/**
 
