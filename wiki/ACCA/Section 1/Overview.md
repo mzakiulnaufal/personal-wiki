@@ -13,7 +13,7 @@ tags: [ACCA, Section1, financial-reporting, synthesis]
 
 1. Mengapa financial reporting penting buat pengambilan keputusan? Hubungan recording/analysing/summarising dengan keputusan?
 2. Beda legal sole trader vs partnership vs limited liability company? Implikasi praktis ke laporan keuangan?
-3. Kenapa laporan keuangan harus akurat? Konsekuensi kalau tidak?
+3. Kenapa laporan keuangan harus akurat? Konsekuensi kalau tidak? (Contoh: Enron)
 4. Siapa stakeholder-nya? Bedakan internal vs eksternal — kebutuhan informasi masing-masing?
 5. 4 main financial statements (SoFP, SPLOCI, SoCF, SoCE) — tujuan masing-masing dan hubungannya?
 6. Kenapa SoCF dan SoCE wajib hanya untuk limited companies, bukan sole trader/partnership? Implikasinya?
@@ -51,8 +51,13 @@ tags: [ACCA, Section1, financial-reporting, synthesis]
 - [[../../raw/ACCA/Section 1/1.2 Financial Reporting.md|1.2 Financial Reporting]]
 - [[../../raw/ACCA/Section 1/1.3 Users of Financial Statements.md|1.3 Users of Financial Statements]]
 
-## Sub-pages
+### Sub-pages
 
 - [[Business Entities]]
 - [[Financial Reporting]]
 - [[Stakeholders]]
+- [[../Concepts/Accrual Basis of Accounting]]
+- [[../Concepts/Going Concern]]
+- [[../Concepts/Materiality]]
+- [[../Standards/IAS 1]]
+- [[../Standards/IAS 16]]

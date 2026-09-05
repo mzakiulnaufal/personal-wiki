@@ -39,6 +39,11 @@ Businesses exist to make a profit. They can operate as **sole trader**, **partne
 
 Limited companies raise capital from the public (shareholders, lenders). They need to provide **comparable**, **credible**, and **reliable** financial statements to attract investment. IFRS provides a common framework that enables investors to compare companies across jurisdictions. Sole traders and partnerships typically rely on owner's capital or private loans, so they don't face the same accountability.
 
+### Related Concepts
+- [[../Concepts/Going Concern]] – assumption that the company will continue operating
+- [[../Concepts/Accrual Basis of Accounting]] – basis for preparing financial statements under IFRS
+- [[../Concepts/Materiality]] – threshold concept in applying IFRS
+
 ## Key Implication
 
 - **Sole trader/partnership**: Financial statements are usually for tax authorities or banks; not required to publish.
