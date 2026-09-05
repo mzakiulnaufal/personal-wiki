@@ -29,3 +29,14 @@
 ## [2026-09-05] setup | Added IFRS standards
 - Created IFRS 15 (Revenue), IFRS 16 (Leases), IFRS S1, IFRS S2
 - Updated index.md with IFRS standards section
+
+## [2026-09-05] ingest | Claude Code Course by AI Automation by Jack (Levels 0-10)
+- Copied 11 transcripts to `raw/sources/claude-code-course/`
+- Created `wiki/Claude Code Course/` with 11 compiled pages: Overview (hub), Setup and Foundations, Website Building, Power Features, Memory System, Hermes Agent, App Building, First Principles, Design Systems, Compliance, Monetization
+- Added "Claude Code Course" section to `notes/index.md`
+- Added source entry to `raw/Source Index.md`
+
+## [2026-09-05] lint | Wiki health check
+- 0 broken content links, 0 orphan pages, 11/11 new pages indexed
+- Confirmed transcripts gitignored (paywalled course content stays local)
+- Report: `outputs/audits/2026-09-05 - Wiki Health Check.md`

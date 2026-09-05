@@ -72,6 +72,24 @@ The complete catalog of pages, organized by topic. This is the long version — 
 | [[wiki/Concepts/A Return to Code\|A Return to Code]]                         | concept | developing | Vibe coding as a return to playful, personal, direct software creation through agents.                                             |
 | [[wiki/Concepts/Nothing Ever Happens Is Over\|Nothing Ever Happens Is Over]] | concept | developing | Fast-changing AI-era sense-making frame for startups, technology, risks, and personal operating systems.                           |
 
+### Claude Code Course
+
+Course by *AI Automation by Jack* — building websites, apps, and an AI business with Claude Code. (11 transcripts: Levels 0-10.)
+
+| Page | Type | Status | Summary |
+| --- | --- | --- | --- |
+| [[wiki/Claude Code Course/Overview\|Overview]] | hub | developing | Course map, philosophy, key tools, agentic-engineering thread across all 10 levels. |
+| [[wiki/Claude Code Course/Setup and Foundations\|Setup and Foundations]] | workflow | developing | Install, environments, plans, permissions, slash commands, context rot, connectors, projects. |
+| [[wiki/Claude Code Course/Website Building\|Website Building]] | workflow | developing | 3-step system: competitive intel, parallel-agent "three flavors," UI sniping, SEO, Vercel deploy. |
+| [[wiki/Claude Code Course/Power Features\|Power Features]] | concept | developing | Skills, token management, routines, MCP vs API vs CLI, sub-agents, critic loops, plugins. |
+| [[wiki/Claude Code Course/Memory System\|Memory System]] | system | developing | Three levels of memory, CLAUDE.md manuals, Obsidian/Pinecone/NotebookLM, Granola. |
+| [[wiki/Claude Code Course/Hermes Agent\|Hermes Agent]] | tool | developing | The shared OS: install, Docker, Telegram setup, Claude OS, Pantheon personas, NotebookLM skill. |
+| [[wiki/Claude Code Course/App Building\|App Building]] | workflow | developing | Email capture, Supabase, auth/dashboard, Stripe payments, Resend, model routing. |
+| [[wiki/Claude Code Course/First Principles\|First Principles]] | concept | developing | First-principles thinking, 5-step engineering protocol, high agency, lead scraping. |
+| [[wiki/Claude Code Course/Design Systems\|Design Systems]] | concept | developing | Design-as-code, Open Design, Power Design's 20 universal rules. |
+| [[wiki/Claude Code Course/Compliance\|Compliance]] | concept | developing | Security 12 rules: API keys, RLS, 2FA, MCP vetting, .env hygiene, behavioral checkpoints. |
+| [[wiki/Claude Code Course/Monetization\|Monetization]] | concept | developing | Money Loop, theory of constraints, more/better/new, audit-based $10k deals, websites as gateway. |
+
 ### Metacognition and learning
 
 | Page | Type | Status | Summary |

@@ -27,6 +27,12 @@ This index lets `raw/` and `Clippings/` remain dump directories while still givi
 | [[raw/sources/A Return to Code|A Return to Code]] | article/transcript | compiled | vibe coding, personal software, one-shot apps, coding agents | [[wiki/Concepts/A Return to Code|A Return to Code]], [[wiki/Concepts/Vibe Coding|Vibe Coding]], [[wiki/Concepts/Agentic Engineering|Agentic Engineering]] |
 | [[raw/sources/‘Nothing Ever Happens’ Is Over|Nothing Ever Happens Is Over]] | article/transcript | compiled | AI-era change, startups, risk, agency, sense-making | [[wiki/Concepts/Nothing Ever Happens Is Over|Nothing Ever Happens Is Over]], [[wiki/Techniques/Marginal Gains|Marginal Gains]], [[wiki/Dimensions/Self-Regulation|Self-Regulation]] |
 
+### Claude Code Course (AI Automation by Jack)
+
+| Source | Type | Status | Main Topics | Compile Targets |
+| --- | --- | --- | --- | --- |
+| Claude Code Course, Levels 0-10 (11 transcripts) | paid course transcripts | compiled (batch) | Claude Code setup, power features, websites, apps, memory, Hermes, first principles, design systems, compliance, monetization | [[wiki/Claude Code Course/Overview\|Overview]], [[wiki/Claude Code Course/Setup and Foundations\|Setup]], [[wiki/Claude Code Course/Website Building\|Website Building]], [[wiki/Claude Code Course/Power Features\|Power Features]], [[wiki/Claude Code Course/Memory System\|Memory System]], [[wiki/Claude Code Course/Hermes Agent\|Hermes Agent]], [[wiki/Claude Code Course/App Building\|App Building]], [[wiki/Claude Code Course/First Principles\|First Principles]], [[wiki/Claude Code Course/Design Systems\|Design Systems]], [[wiki/Claude Code Course/Compliance\|Compliance]], [[wiki/Claude Code Course/Monetization\|Monetization]] |
+
 ## Book Sources
 
 | Source | Type | Status | Main Topics | Compile Targets |
