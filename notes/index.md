@@ -61,16 +61,16 @@ The complete catalog of pages, organized by topic. This is the long version — 
 
 ### Agentic engineering
 
-| Page | Type | Status | Summary |
-| --- | --- | --- | --- |
-| [[wiki/Concepts/Agentic Engineering\|Agentic Engineering]] | hub | developing | Best-practices hub for building with agents while preserving quality, taste, architecture, verification, and human responsibility. |
-| [[wiki/Concepts/Vibe Coding\|Vibe Coding]] | concept | seed | Letting an AI coding agent take substantial implementation control under human steering. |
-| [[wiki/Concepts/Software 3.0\|Software 3.0]] | concept | seed | Natural-language context and prompts as a programming medium for LLM interpreters. |
-| [[wiki/Concepts/Agent-Native Infrastructure\|Agent-Native Infrastructure]] | concept | seed | Infrastructure designed for agents to use directly through legible instructions and APIs. |
-| [[wiki/Concepts/Understanding Bottleneck\|Understanding Bottleneck]] | concept | seed | Even when thinking is outsourced, the human must understand enough to direct the work. |
-| [[wiki/Concepts/A Motorcycle for the Mind\|A Motorcycle for the Mind]] | concept | developing | AI as an accelerator for thought, learning, coding, and agency that still requires human direction. |
-| [[wiki/Concepts/A Return to Code\|A Return to Code]] | concept | developing | Vibe coding as a return to playful, personal, direct software creation through agents. |
-| [[wiki/Concepts/Nothing Ever Happens Is Over\|Nothing Ever Happens Is Over]] | concept | developing | Fast-changing AI-era sense-making frame for startups, technology, risks, and personal operating systems. |
+| Page                                                                         | Type    | Status     | Summary                                                                                                                            |
+| ---------------------------------------------------------------------------- | ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [[wiki/Concepts/Agentic Engineering\|Agentic Engineering]]                   | hub     | developing | Best-practices hub for building with agents while preserving quality, taste, architecture, verification, and human responsibility. |
+| [[wiki/Concepts/Vibe Coding\|Vibe Coding]]                                   | concept | seed       | Letting an AI coding agent take substantial implementation control under human steering.                                           |
+| [[wiki/Concepts/Software 3.0\|Software 3.0]]                                 | concept | seed       | Natural-language context and prompts as a programming medium for LLM interpreters.                                                 |
+| [[wiki/Concepts/Agent-Native Infrastructure\|Agent-Native Infrastructure]]   | concept | seed       | Infrastructure designed for agents to use directly through legible instructions and APIs.                                          |
+| [[wiki/Concepts/Understanding Bottleneck\|Understanding Bottleneck]]         | concept | seed       | Even when thinking is outsourced, the human must understand enough to direct the work.                                             |
+| [[wiki/Concepts/A Motorcycle for the Mind\|A Motorcycle for the Mind]]       | concept | developing | AI as an accelerator for thought, learning, coding, and agency that still requires human direction.                                |
+| [[wiki/Concepts/A Return to Code\|A Return to Code]]                         | concept | developing | Vibe coding as a return to playful, personal, direct software creation through agents.                                             |
+| [[wiki/Concepts/Nothing Ever Happens Is Over\|Nothing Ever Happens Is Over]] | concept | developing | Fast-changing AI-era sense-making frame for startups, technology, risks, and personal operating systems.                           |
 
 ### Metacognition and learning
 

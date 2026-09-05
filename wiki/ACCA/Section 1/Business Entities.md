@@ -57,4 +57,4 @@ Limited companies raise capital from the public (shareholders, lenders). They ne
 
 ## Sources
 
-- [[../../raw/ACCA/Section 1/1.1 Business Entities.md]]
+- [[1.1 Business Entities]]
