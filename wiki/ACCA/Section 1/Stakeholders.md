@@ -7,7 +7,7 @@ source-count: 1
 tags: [ACCA, Section1, stakeholders]
 ---
 
-# Users of Financial Statements
+# Stakeholders (Users of Financial Statements)
 
 ## Stakeholders
 
@@ -49,6 +49,11 @@ A stakeholder is anyone who can affect or is affected by the business. Different
 - "Who are the internal and external users of financial statements?"
 - "Why do management need different information than shareholders?"
 - "What information do lenders need from financial statements?"
+
+## Related Concepts
+- [[../Concepts/Going Concern]] – stakeholder assessment of company's ability to continue
+- [[../Concepts/Materiality]] – stakeholder focus on material information
+- [[../Standards/IAS 1]] – presentation requirements for stakeholders
 
 ## Sources
 

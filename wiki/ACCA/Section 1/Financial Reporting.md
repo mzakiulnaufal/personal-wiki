@@ -44,6 +44,13 @@ Financial reporting is the **recording, analysing, and summarising** of financia
 - Reconciles equity balance at start and end: profit/loss, share issuance, dividends, revaluation gains.
 - **Mandatory only for limited companies.**
 
+### Related Concepts
+- [[../Concepts/Going Concern]] – assessment of ability to continue as a going concern
+- [[../Concepts/Accrual Basis of Accounting]] – basis for preparing financial statements
+- [[../Concepts/Materiality]] – threshold for separate presentation of items
+- [[../Standards/IAS 1]] – presentation of financial statements
+- [[../Standards/IAS 16]] – property, plant and equipment
+
 ## Relationships Between Statements
 
 - **SPLOCI → SOCE → SOFP**: Profit from SPLOCI flows into equity via SOCE, which updates the equity figure in SOFP.
